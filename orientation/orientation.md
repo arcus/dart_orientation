@@ -6,7 +6,7 @@ version:  1.0.0
 language: en
 narrator: UK English Female
 
-logo:     https://github.research.chop.edu/arcus/data_science_training_pilots/orientation/media/thinkific_cover.png
+logo:     https://github.com/arcus/dart_orientation/blob/rmh-orientation/orientation/media/thinkific_cover.png
 
 comment:  This is the material presented at the orientation meeting for the Data Analysis Researcher Training (DART) pilots, March 2022.
 -->
@@ -15,7 +15,7 @@ comment:  This is the material presented at the orientation meeting for the Data
 
 To see this document as an interactive LiaScript rendered version, click on the following link/badge:
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.research.chop.edu/raw/arcus/data_science_training_pilots/rmh-orientation/orientation/orientation.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/dart_orientation/rmh-orientation/orientation/orientation.md)
 
 ## Data collection so far
 
