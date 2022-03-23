@@ -81,7 +81,7 @@ Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html#s
 - Journal club
 - Scheduled time to work in parallel on modules
 - Scheduled check-ins to talk about progress
-- Social gatherings to get to know each other and celebrate - accomplishments
+- Social gatherings to get to know each other and celebrate accomplishments
 - Anything else you want!
 
 ## In your breakout rooms
