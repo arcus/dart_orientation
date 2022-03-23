@@ -85,7 +85,7 @@ Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html#s
 - Anything else you want!
 
 
-Importantly, the reason we're leaving this to you is that we want this to be fully customized to your own needs! 
+Importantly, the reason we're leaving this to you is that we want this to be fully customized to your own needs, so please don't feel constrained by the ideas we've provided! 
 
 ## In your breakout rooms
 
