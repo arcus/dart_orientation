@@ -41,7 +41,7 @@ With this project, we aim to contribute on several fronts:
 
 You are part of our **pilot program**. This is not yet an active research project (we'll be starting that next year), but your responses are invaluable in helping us hone our instrumentation and methods.
 
-We're depending on you to let us know if you have feedback (positive or negative) on any part of the program: [dart@chop.edu](mailto:dart@chop.edu)
+We're depending on you to let us know if you have feedback (positive or negative) on any part of the program: dart@chop.edu
 
 **Thank you!!**
 
@@ -53,7 +53,7 @@ In November, we sent out a survey with questions about a number of data science 
 - desire to **learn** that task
 - **relevance** of that task to your current work
 
-There were 16 topics, for a total of 48 responses, as well as a few additional questions about your previous data science training (if any) and preferred learning methods.
+There were 16 tasks, for a total of 48 responses, as well as a few additional questions about your previous data science training (if any) and preferred learning methods.
 
 The main goal of this survey was to build **empirical learner personas** for your cohort.
 
@@ -74,7 +74,7 @@ Usually designers just make up personas. In some cases, though, like ours, perso
 ### Learner Personas: How we're using them
 
 In our case, we're taking the idea of personas a bit further.
-We are still using it as a design tool, since considering our learner personas helps to make sure we're creating educational content that will work for a wide range of people, coming at the content with different levels of expertise, different learning goals, different constraints.
+We are still using them as a design tool, since considering our learner personas helps to make sure we're creating educational content that will work for a wide range of people, coming at the content with different levels of expertise, different learning goals, different constraints.
 But we're not just using the personas to inform our design.
 
 We're using learner personas to provide a tailored educational experience to you, our learners. We are applying the learner personas to build two things:
