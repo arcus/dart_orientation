@@ -57,7 +57,7 @@ There were 16 topics, for a total of 48 responses, as well as a few additional q
 
 The main goal of this survey was to build **empirical learner personas** for your cohort.
 
-#### Learner personas: What they are
+### Learner personas: What they are
 
 --{{0}}--
 For this project, we're borrowing the idea of **personas** from UX design theory. In design, it's typical to create "personas" for whatever product you're building, as a way to ensure you're thinking about more than just a single typical user when you're deciding what to build and how. A designer might create several user personas, each with a detailed description of what that imaginary person is like, their needs, constraints, etc.
@@ -71,7 +71,7 @@ Usually designers just make up personas. In some cases, though, like ours, perso
 - Typically, several different detailed descriptions of potential users
 - Usually not empirically defined, but can be (ours are!)
 
-#### Learner Personas: How we're using them
+### Learner Personas: How we're using them
 
 In our case, we're taking the idea of personas a bit further.
 We are still using it as a design tool, since considering our learner personas helps to make sure we're creating educational content that will work for a wide range of people, coming at the content with different levels of expertise, different learning goals, different constraints.
@@ -86,7 +86,7 @@ We're using learner personas to provide a tailored educational experience to you
 For each learner persona, we're building a tailored educational pathway, that is to say a curated list of educational modules, presented in order, that will hopefully be a good match to the needs and interests of learners assigned to that persona.
 We're also connecting you with others with the same learner persona so you can form communities of practice to build knowledge together.
 
-#### Building learner personas
+### Building learner personas
 
 Hierarchical clustering analysis (Chen, 2022; Zagallo et al., 2019)
 
@@ -97,7 +97,7 @@ Hierarchical clustering analysis (Chen, 2022; Zagallo et al., 2019)
 --{{0}}--
 There are a number of ways to do a cluster analysis, but we used [hierarchical clustering](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/hclust.html) based on the squared Euclidean distances because it's a simple method that works for our small data set. It's also the method that was used in the other two existing studies on empirical learner personas.
 
-#### Clustering analysis results
+### Clustering analysis results
 
 Here's the full dendrogram for the clustering analysis:
 
@@ -117,7 +117,7 @@ To have a handy way to refer to them, we named each cluster after an animal: Bat
 --{{0}}--
 To get more of an idea of what those clusters are like --- what those personas are like --- we can look at the pattern of responses by cluster.
 
-#### Cluster distributions
+### Cluster distributions
 
 --{{0}}--
 The plots below show distributions by cluster for each of the expertise, desire to learn, and relevance questions for the 16 different data science tasks plotted by topic (data types, techniques, and tools).
@@ -193,6 +193,12 @@ Our goal is to help researchers move from tentative participation in the broader
 
 Agrawal, R., & Prabakaran, S. (2020). Big data in digital healthcare: Lessons learnt and recommendations for general practice. Heredity, 124(4), 525–534. https://doi.org/10.1038/s41437-020-0303-2
 
+Chen, D. (2022) A Pedagogical Approach to Create and Assess Domain-Specific Data Science Learning Materials in the Biomedical Sciences. [Doctoral dissertation, Virginia Tech]. https://vtechworks.lib.vt.edu/handle/10919/108073
 
+Pruitt, J., and Adlin, T. (2006). The Persona Lifecycle: Keeping People in Mind Throughout Product Design (1st edition). Morgan Kaufmann.
 
 Stephens ZD, Lee SY, Faghri F, Campbell RH, Zhai C, Efron MJ, et al. (2015) Big Data: Astronomical or Genomical? PLoS Biol 13(7): e1002195. https://doi.org/10.1371/journal.pbio.1002195
+
+Wilson, G. (2019). Teaching tech together: How to make your lessons work and build a teaching community around them. CRC Press.
+
+Zagallo, P., McCourt, J., Idsardi, R., Smith, M. K., Urban-Lurain, M., Andrews, T. C., Haudek, K., Knight, J. K., Merrill, J., Nehm, R., and others. (2019). Through the eyes of faculty: Using personas as a tool for learner-centered professional development. CBE—Life Sciences Education, 18(4), ar62.
