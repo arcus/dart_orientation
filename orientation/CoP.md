@@ -10,18 +10,13 @@ logo:     https://github.com/arcus/dart_orientation/blob/rmh-orientation/orienta
 comment:  This is the material presented at the orientation meeting for the Data Analysis Researcher Training (DART) pilots, March 2022.
 -->
 
-
-# Communities of Practice slides
-To be copied into main presentation
-
 ## Communities of Practice
+A Community of Practice is a group of people who "share...a passion for something they do and learn how to do it better as they interact regularly" [1]
 
-**Practice** means you are doing something regularly.
+In building your own Community of Practice, we hope that you will come together to find ways to connect that work best for you, enhancing your sense of connection with one another as well as your skill development. 
 
-**Community** means you are supporting others and others are supporting you.
 
-You are creating a community of practice (CoP) for learning Data Science.
-
+[1]  ["Introduction to communities of practice - A brief overview of the concept and its uses"](https://wenger-trayner.com/introduction-to-communities-of-practice/) Etienne and Beverly Wenger-Trayner.() Retrieved 21 March 2022.
 ### Practice
 
 Regular practice is how people get better at things!
@@ -83,6 +78,9 @@ Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html#s
 - Scheduled check-ins to talk about progress
 - Social gatherings to get to know each other and celebrate accomplishments
 - Anything else you want!
+
+
+Importantly, the reason we're leaving this to you is that we want this to be fully customized to your own needs! 
 
 ## In your breakout rooms
 
