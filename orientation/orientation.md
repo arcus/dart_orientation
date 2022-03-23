@@ -38,13 +38,13 @@ There were 16 topics, for a total of 48 responses.
 #### Learner Personas: What and Why
 
 --{{0}}--
-****
+<div>
 For this project, we're using personas, which is an idea we're borrowing from design theories.
 
 In design, it's typical to create "personas" for whatever product you're building, as a way to ensure you're thinking about more than just a single typical user when you're deciding what to build and how. A typical designer might create several user personas, each with a detailed description of what that imaginary person is like, their needs, constraints, etc.
 
 Usually designers just make up personas. In some cases, though, like ours, personas are empirically defined based on data gathered from a population of real users.
-****
+</div>
 
 **What are personas?**
 
