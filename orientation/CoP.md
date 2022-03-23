@@ -16,18 +16,10 @@ A Community of Practice is a group of people who "share...a passion for somethin
 In building your own Community of Practice, we hope that you will come together to find ways to connect that work best for you, enhancing your sense of connection with one another as well as your skill development. 
 
 
-[1]  ["Introduction to communities of practice - A brief overview of the concept and its uses"](https://wenger-trayner.com/introduction-to-communities-of-practice/) Etienne and Beverly Wenger-Trayner.() Retrieved 21 March 2022.
-### Practice
+While there's a lot of incredible research out there developing a nuanced understanding of what makes a Community of Practice, for our purposes, we're going to discuss it by breaking it down into its two pieces: **Communities** and **Practice**
 
-Regular practice is how people get better at things!
 
-Doing something regularly can look different for different people:
-
-- Synchronous (do this at a set time) or asynchronous (have done this by a set time)
-- Accountability: how do we know that it is done?
-- In person or virtual practice?
-- With others in a community?
-
+[1]  ["Introduction to communities of practice - A brief overview of the concept and its uses"](https://wenger-trayner.com/introduction-to-communities-of-practice/) Etienne and Beverly Wenger-Trayner. Retrieved 21 March 2022.
 
 ### Community
 
@@ -39,6 +31,19 @@ Starting a supportive community involves:
 - Regular communication
     - How do you start a conversation?
     - Where do you have the conversation?
+
+### Practice
+Practice here has two meanings: both the verb, as in to repeatedly do something as an attempt to gain mastery, and the noun, as in something that one is actively engaged in (such as the practice of medicine). 
+
+Communities of Practice are centered around a specific practice (here, data science and informatics) and in finding ways to collaboratively practice those skills. 
+
+Doing something regularly can look different for different people:
+
+- Synchronous (do this at a set time) or asynchronous (have done this by a set time)
+- Accountability: how do we know that it is done?
+- In person or virtual practice?
+- With others in a community?
+
 
 ### Starting a conversation
 
