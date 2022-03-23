@@ -2,7 +2,7 @@
 
 author:   Data Analysis Researcher Training team
 email:    dart@chop.edu
-version:  1.0.0
+version:  0.0.1
 language: en
 narrator: UK English Female
 
@@ -29,16 +29,22 @@ You are part of our **pilot program**. This is not yet an active research projec
 
 In November, we sent out a survey with questions about a number of data science tasks asking you to rate yourself on:
 
-  - current level of **expertise** in that task
-  - desire to **learn** that task
-  - **relevance** of that task to your current work
+- current level of **expertise** in that task
+- desire to **learn** that task
+- **relevance** of that task to your current work
 
 There were 16 topics, for a total of 48 responses.  
 
 #### Learner Personas: What and Why
 
-                            --{{0}}--
-For this project, we're using personas, which is an idea we're borrowing from design theories. In design, it's typical to create "personas" for whatever product you're building, as a way to ensure you're thinking about more than just a single typical user (or, more likely, just imagining yourself as the user) when you're deciding what to build and how. A typical designer might create several user personas, each with a detailed description of what that imaginary person is like, their needs, constraints, etc. Usually designers just make up personas. In some cases, though, like ours, personas are empirically defined based on data gathered from a population of real users.
+--{{0}}--
+****
+For this project, we're using personas, which is an idea we're borrowing from design theories.
+
+In design, it's typical to create "personas" for whatever product you're building, as a way to ensure you're thinking about more than just a single typical user when you're deciding what to build and how. A typical designer might create several user personas, each with a detailed description of what that imaginary person is like, their needs, constraints, etc.
+
+Usually designers just make up personas. In some cases, though, like ours, personas are empirically defined based on data gathered from a population of real users.
+****
 
 **What are personas?**
 
