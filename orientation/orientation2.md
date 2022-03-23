@@ -187,11 +187,15 @@ Pathways are provided in [thinkific](https://dart-chop.thinkific.com/):
 
 In addition to building educational pathways, we're using your learner personas to define communities of practice.
 
-Our goal is to help researchers move from tentative participation in the broader data community --- which loosely  spans user groups, regular gatherings, online spaces, etc. --- into participation in a more focused community centered on domain and skill goals.
+Our goal is to help researchers move from tentative participation in the broader data community --- which loosely spans user groups, regular gatherings, online spaces, etc. --- into participation in a more focused community centered on domain and skill goals.
+
+(Auer et al., 2021, Wilson, 2019)
 
 ## References
 
 Agrawal, R., & Prabakaran, S. (2020). Big data in digital healthcare: Lessons learnt and recommendations for general practice. Heredity, 124(4), 525–534. https://doi.org/10.1038/s41437-020-0303-2
+
+Auer, S., Haeltermann, N. A., Weissberger, T. L., Erlich, J. C., Susilaradeya, D., Julkowska, M., Gazda, M. A., Schwessinger, B., Jadavji, N. M., & Reproducibility for Everyone Team. (2021). A community-led initiative for training in reproducible research. ELife, 10, e64719. https://doi.org/10.7554/eLife.64719
 
 Chen, D. (2022) A Pedagogical Approach to Create and Assess Domain-Specific Data Science Learning Materials in the Biomedical Sciences. [Doctoral dissertation, Virginia Tech]. https://vtechworks.lib.vt.edu/handle/10919/108073
 
