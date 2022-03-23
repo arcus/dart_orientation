@@ -12,9 +12,7 @@ comment:  This is the material presented at the orientation meeting for the Data
 
 # Welcome to DART
 
-To see this document as an interactive LiaScript rendered version, click on the following link/badge:
-
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/dart_orientation/main/orientation/orientation.md)
+To see this document as an interactive LiaScript rendered version, click on the following link/badge: [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/dart_orientation/main/orientation/orientation.md)
 
 ![DART logo.](media/thinkific_cover.png)
 
@@ -36,7 +34,13 @@ With this project, we aim to contribute on several fronts:
 - measuring **effectiveness** of the program, including the opportunity to examine effects individually within learner clusters and interactions between clusters and content
 - developing best practice recommendations for **accessible and inclusive** online technical teaching materials
 
+## Pilot project
 
+You are part of our **pilot program**. This is not yet an active research project (we'll be starting that next year), but your responses are invaluable in helping us hone our instrumentation and methods.
+
+We're depending on you to let us know if you have feedback (positive or negative) on any part of the program: <dart@chop.edu>
+
+**Thank you!!**
 
 ## Clustering Analysis
 
