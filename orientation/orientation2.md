@@ -12,11 +12,19 @@ comment:  This is the material presented at the orientation meeting for the Data
 
 # Welcome to DART
 
+To see this document as an interactive LiaScript rendered version, click on the following link/badge:
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/dart_orientation/main/orientation/orientation.md)
+
+![DART logo.](media/thinkific_cover.png)
+
 **Our goal**: To empower researchers to learn and use emerging data science methods.
+
+## Motivation
 
 There has been an explosion in the generation of healthcare and biomedical data in recent years (Agrawal & Prabakaran, 2020), including image data (radiology, neuroimaging, etc.), text data (patient records), complex time series and longitudinal data (continuous monitoring), and more. Growth in sequencing data alone is expected to eclipse other major generators of big data in the next few years, including astronomical data, Twitter, and YouTube (Stephens et al., 2015). This presents tremendous opportunities, but also tremendous challenges.
 
-Traditional education can't keep up with the rapid developments in tools and techniques. Researchers need the support to engage in on-going education throughout their careers.
+Traditional education can't keep up with the rapid developments in tools and techniques. Researchers need the support to build skills and engage in on-going education throughout their careers.
 
 ## Our research interests
 
@@ -51,6 +59,7 @@ This program is composed of **modules**:
 
 ## Communities of practice
 
+Our goal is to help researchers move from tentative participation in the broader data community - which loosely  spans user groups, regular gatherings, online spaces, etc. - into participation in a more focused community centered on domain and skill goals.
 
 ## References
 
